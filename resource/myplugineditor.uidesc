@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vstgui-ui-description version="1">
+	<template name="view" origin="0,0" size ="250, 150" background-color="#FF0000">
+		<view class="CKnob" control-tag="Randomize" origin="50,50" size="50,50" />
+		<view class="CKnob" control-tag="UseFreq" origin="150,50" size="50,50" />
+	</template>
+
+	<control-tags>
+		<control-tag name="Randomize" tag="100" />
+		<control-tag name="UseFreq" tag="101" />
+	</control-tags>
+	<fonts>
+	</fonts>
+	<colors>
+	</colors>
+	<bitmaps/>
+</vstgui-ui-description>
